@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0",
+    "name": "Mercury Express",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/mercury.png?updatedAt=1696855997202",
+    "description": "Journey to the closest planet to the Sun, Mercury. Experience extreme temperature variations and marvel at its unique surface.",
+    "duration": "1 month",
+    "price": "$170,000",
+    "highlights": "Witness the scorching heat of the day side and the chilling cold of the night side. Explore Mercury's craters and vast plains."
+  },
+  {
+    "id": "1",
+    "name": "Venus Enigma",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/venus.png?updatedAt=1696855996107",
+    "description": "Venture to the second planet from the Sun, Venus. Explore its thick, toxic atmosphere and volcanic landscapes.",
+    "duration": "3 weeks",
+    "price": "$200,000",
+    "highlights": "Witness Venus's intense greenhouse effect and visit its volcanoes. Experience the mystery of our \"sister planet.\""
+  },
+  {
+    "id": "2",
+    "name": "Earth Orbit Experience",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/earth.png?updatedAt=1696855997799",
+    "description": "Experience the beauty of Earth from orbit. Take a journey to the International Space Station (ISS) and float in microgravity.",
+    "duration": "1 week",
+    "price": "$100,000",
+    "highlights": "See the Earth from a unique perspective, conduct experiments in microgravity, and live aboard the ISS like an astronaut."
+  },
+  {
+    "id": "3",
+    "name": "Mars Odyssey",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/mars.png?updatedAt=1696855997492",
+    "description": "Experience the Red Planet like never before. Walk on the Martian surface and uncover its secrets.",
+    "duration": "1 month",
+    "price": "$380,000",
+    "highlights": "Hike on Martian canyons, visit Olympus Mons, the tallest volcano in the solar system, and search for signs of past life."
+  },
+  {
+    "id": "4",
+    "name": "Jupiter's Majesty",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/jupiter.png?updatedAt=1696855997500",
+    "description": "Fly to the largest planet in our solar system, Jupiter. Witness its massive storms and unique cloud patterns.",
+    "duration": "4 months",
+    "price": "$440,000",
+    "highlights": "Observe Jupiter's iconic Great Red Spot, witness its turbulent atmosphere, and explore its many moons."
+  },
+  {
+    "id": "5",
+    "name": "Saturn Ringscape",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/saturn.png?updatedAt=1696855997757",
+    "description": "Journey to Saturn and marvel at its stunning ring system. Visit its intriguing moon, Titan, and explore the ringed giant.",
+    "duration": "5 months",
+    "price": "$550,000",
+    "highlights": "Soar through Saturn's dazzling rings and explore its moon, Titan, with its lakes of liquid methane."
+  },
+  {
+    "id": "6",
+    "name": "Uranus Expedition",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/uranus.png?updatedAt=1696855995702",
+    "description": "Visit the ice giant Uranus and its peculiar tilted rings. Experience its icy atmosphere and unique features.",
+    "duration": "6 months",
+    "price": "$600,000",
+    "highlights": "Witness Uranus's strange axial tilt, explore its rings, and study its chilly environment."
+  },
+  {
+    "id": "7",
+    "name": "Neptune Odyssey",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/neptune.png?updatedAt=1696855995644",
+
+    "description": "Travel to Neptune, the last of the gas giants. Explore its deep blue atmosphere and its mysterious storms.",
+    "duration": "8 months",
+    "price": "$750,000",
+    "highlights": "Dive into Neptune's frigid winds, witness its dark storms, and experience the outermost planet in the solar system."
+  },
+  {
+    "id": "8",
+    "name": "Sun Flyby",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/sun.png?updatedAt=1696855997943",
+    "description": "For the ultimate thrill-seekers, embark on a daring journey to the Sun. While you won't land, you'll fly closer to the Sun than ever before.",
+    "duration": "1 month",
+    "price": "$200,000",
+    "highlights": "Experience the Sun's scorching heat and witness its massive solar flares and eruptions from a safe distance."
+  },
+  {
+    "id": "9",
+    "name": "Pluto Discovery",
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/pluto.png?updatedAt=1696855997688",
+    "description": "Embark on an extraordinary journey to the dwarf planet Pluto. Explore the distant, icy world and its enigmatic surface.",
+    "duration": "10 months",
+    "price": "$950,000",
+    "highlights": "Witness the far reaches of our solar system, explore Pluto's frozen landscapes, and study its complex geology."
+  }
+]

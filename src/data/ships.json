@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "StarHopper",
+    "image": "https://ik.imagekit.io/penkaldev/Spacecrafts/spacecrafts/newShort?updatedAt=1697043336623",
+    "category": "Short Distance",
+    "description": "StarHopper is a commercial short-distance shuttle for rapid tourist travel between Earth and Mars, as well as Venus. It's designed to offer tourists a chance to visit these celestial neighbors, with efficient short-range propulsion, comfortable cabins for passengers, and short-duration missions for unforgettable interplanetary getaways. It has a crew capacity of 2 members and can transport up to 16 passengers on each exciting voyage.",
+    "crew": "Carlos Rodriguez , Li Wei",
+    "passengers": 16,
+    "maxSpeed": "75,789 km/h"
+  },
+  {
+    "id": 2,
+    "name": "Lunar Shuttle",
+    "image": "https://ik.imagekit.io/penkaldev/Spacecrafts/spacecrafts/newMedium?updatedAt=1697043136124",
+    "category": "Medium Distance",
+    "description": "The Lunar Shuttle is a commercial spacecraft designed for medium-distance tourist flights within the solar system, primarily to Jupiter and Mercury. Tourists will experience efficient propulsion for exciting journeys, spacious observation decks for stargazing, enhanced safety systems for lunar landings, and short-duration missions for travelers who want to explore the wonders of Jupiter and Mercury. It has a crew capacity of 3 members and can carry up to 24 passengers on each thrilling voyage.",
+    "crew": "Megan Brown, Janusz Nosacz, Shidoshi Tanaka",
+    "passengers": 24,
+    "maxSpeed": "255,000 km/h"
+  },
+  {
+    "id": 3,
+    "name": "Solar Cruiser",
+    "image": "https://ik.imagekit.io/penkaldev/Spacecrafts/spacecrafts/long.jpg?updatedAt=1697043159531",
+    "category": "Long Distance",
+    "description": "The Solar Cruiser is a long-distance spaceship tailored for missions to the outer reaches of our solar system, including Uranus, Neptune, and Pluto. It's equipped with advanced ion propulsion for efficient travel to these distant planets. The spaceship features a comfortable living space for the crew and passengers, dedicated research laboratories for planetary studies, a robust communication system for real-time contact with mission control, and shielding to protect against solar and cosmic radiation. It can accommodate a crew of 3 members and up to 30 passengers.",
+    "crew": "John Smith, Emily Brown, Sophie Dubois",
+    "passengers": 30,
+    "maxSpeed": "822,337 km/h"
+  }
+]

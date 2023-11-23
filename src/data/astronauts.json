@@ -1,0 +1,82 @@
+[
+  {
+    "name": "John Smith",
+    "image": "https://ik.imagekit.io/penkaldev/astronauts/astronauts/JohnSmith_u_P8bayTh?updatedAt=1697023135760",
+    "description": "John Smith is an American astronaut with a wealth of experience in space exploration. He has completed multiple spacewalks and conducted important research on the International Space Station.",
+    "id": "1",
+    "age": 42,
+    "ship": "Solar Cruiser",
+    "experience": 19,
+    "nationality": "American"
+  },
+  {
+    "name": "Emily Johnson",
+    "image": "https://ik.imagekit.io/penkaldev/astronauts/astronauts/EmilyJohnson_1xqHf46YR?updatedAt=1697023445153",
+    "description": "Emily Johnson is a British astronaut known for her work on the European Space Agency's missions. She is passionate about astronomy and has contributed to several important discoveries.",
+    "id": "2",
+    "age": 32,
+    "ship": "Solar Cruiser",
+    "experience": 9,
+    "nationality": "British"
+  },
+  {
+    "name": "Carlos Rodriguez",
+    "image": "https://ik.imagekit.io/penkaldev/astronauts/astronauts/CarlosRodriguez?updatedAt=1697023782171",
+    "description": "Carlos Rodriguez, a Spanish astronaut, has a background in astrophysics and has conducted experiments related to cosmic radiation. He's a key member of the European space program.",
+    "id": "3",
+    "age": 35,
+    "ship": "StarHooper",
+    "experience": 11,
+    "nationality": "Spanish"
+  },
+  {
+    "name": "Shidoshi Tanaka",
+    "image": "https://ik.imagekit.io/penkaldev/astronauts/astronauts/ShidoshiTanaka?updatedAt=1697023827339",
+    "description": "Shidoshi Tanaka is a Japanese astronaut known for his expertise in life sciences. He has conducted experiments on the effects of microgravity on biological systems.",
+    "id": "4",
+    "age": 43,
+    "ship": "Lunar Shuttle",
+    "experience": 14,
+    "nationality": "Japanese"
+  },
+  {
+    "name": "Sophie Dubois",
+    "image": "https://ik.imagekit.io/penkaldev/astronauts/astronauts/SophieDubois_JMAPYxUgJ?updatedAt=1697023336279",
+    "description": "Sophie Dubois, a French astronaut, is an expert in space engineering. She has played a crucial role in the development of advanced propulsion systems for space exploration.",
+    "id": "5",
+    "age": 29,
+    "ship": "Solar Cruiser",
+    "experience": 6,
+    "nationality": "French"
+  },
+  {
+    "name": "Janusz Nosacz",
+    "image": "https://ik.imagekit.io/penkaldev/astronauts/astronauts/JanuszNosacz_SSA7N3bLL?updatedAt=1697025432396",
+    "description": "Janusz Nosacz is a Polish astronaut known for his contributions to space robotics. He has operated and maintained robotic systems on the International Space Station.",
+    "id": "6",
+    "age": 31,
+    "ship": "Lunar Shuttle",
+    "experience": 10,
+    "nationality": "Polish"
+  },
+  {
+    "name": "Li Wei",
+    "image": "https://ik.imagekit.io/penkaldev/astronauts/astronauts/NomiMakashi_9ct6r7ZIo?updatedAt=1697024967479",
+    "description": "Li Wei is a Chinese astronaut with expertise in planetary science. He has participated in missions to study Mars and the outer planets of the solar system.",
+    "id": "7",
+    "age": 24,
+    "ship": "StarHooper",
+    "experience": 3,
+    "nationality": "Chinese"
+  },
+  {
+    "name": "Megan Brown",
+    "image": "https://ik.imagekit.io/penkaldev/astronauts/astronauts/MeganBrown_p7b-Emvs1?updatedAt=1697023185546",
+    "description": "Megan Brown is a Canadian astronaut known for her work on space station maintenance. She has conducted numerous spacewalks to ensure the station's functionality.",
+    "id": "8",
+    "age": 53,
+    "ship": "Lunar Shuttle",
+    "experience": 21,
+    "nationality": "Canadian"
+  }
+]

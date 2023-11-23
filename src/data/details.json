@@ -1,0 +1,124 @@
+[
+  {
+    "id": 0,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/mercury.png?updatedAt=1696855997202",
+    "name": "Mercury Express",
+    "description": "Journey to the closest planet to the Sun, Mercury. Experience extreme temperature variations and marvel at its unique surface.",
+    "duration": "1 month",
+    "price": "$170,000",
+    "highlights": "Witness the scorching heat of the day side and the chilling cold of the night side. Explore Mercury's craters and vast plains.",
+    "details": "On this thrilling adventure, you'll travel aboard our state-of-the-art spacecraft, the Starhopper. Expert guides will provide in-depth information about Mercury's geology and history. Don't miss the breathtaking view of the planet's massive cliffs and the elusive ice deposits in permanently shadowed craters.",
+    "spaceship": "Lunar Shuttle",
+    "crew": "Captain Ava Mitchell, Scientist Dr. David Reynolds"
+  },
+  {
+    "id": 1,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/venus.png?updatedAt=1696855996107",
+    "name": "Venus Enigma",
+    "description": "Venture to the second planet from the Sun, Venus. Explore its thick, toxic atmosphere and volcanic landscapes.",
+    "duration": "2 weeks",
+    "price": "$200,000",
+    "highlights": "Witness Venus's intense greenhouse effect and visit its volcanoes. Experience the mystery of our \"sister planet.\"",
+    "details": "Your journey to Venus begins with a launch from Earth and a unique atmospheric entry into the planet's thick cloud cover. Discover the stunning volcanoes and learn about Venus's runaway greenhouse effect. Be prepared for the exotic landscapes and extreme temperatures.",
+    "spaceship": "Starhopper",
+    "crew": "Captain Maya Patel, Geologist Dr. Elena Torres"
+  },
+  {
+    "id": 2,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/earth.png?updatedAt=1696855997799",
+    "name": "Earth Orbit Experience",
+    "description": "Experience the beauty of Earth from orbit. Take a journey to the International Space Station (ISS) and float in microgravity.",
+    "duration": "1 week",
+    "price": "$100,000",
+    "highlights": "See the Earth from a unique perspective, conduct experiments in microgravity, and live aboard the ISS like an astronaut.",
+    "details": "Earth Orbit Experience offers a unique opportunity to visit the International Space Station and experience life in orbit. You'll conduct experiments, enjoy stunning views of Earth, and live like an astronaut for two incredible weeks.",
+    "spaceship": "International Space Station",
+    "crew": "Captain Alex Johnson, Astronaut Dr. Emily Hayes"
+  },
+  {
+    "id": 3,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/mars.png?updatedAt=1696855997492",
+    "name": "Mars Odyssey",
+    "description": "Experience the Red Planet like never before. Walk on the Martian surface and uncover its secrets.",
+    "duration": "2 months",
+    "price": "$380,000",
+    "highlights": "Hike on Martian canyons, visit Olympus Mons, the tallest volcano in the solar system, and search for signs of past life.",
+    "details": "Mars Odyssey offers an exclusive chance to explore the Martian surface. You'll embark on rover excursions, examine ancient riverbeds, and even dig for signs of life. With its diverse terrain, Mars is a wonder waiting to be explored.",
+    "spaceship": "StarHopper",
+    "crew": "Captain James Mitchell, Astrobiologist Dr. Lisa Chang"
+  },
+
+  {
+    "id": 4,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/jupiter.png?updatedAt=1696855997500",
+    "name": "Jupiter's Majesty",
+    "description": "Fly to the largest planet in our solar system, Jupiter. Witness its massive storms and unique cloud patterns.",
+    "duration": "4 months",
+    "price": "$440,000",
+    "highlights": "Observe Jupiter's iconic Great Red Spot, witness its turbulent atmosphere, and explore its many moons.",
+    "details": "Your journey to Jupiter includes close encounters with its massive storms and unique cloud formations. Explore its many moons and study Jupiter's incredible magnetic field. The Great Red Spot awaits your discovery.",
+    "spaceship": "Solar Cruiser",
+    "crew": "Captain Sofia Chen, Planetary Scientist Dr. Michael Adams"
+  },
+  {
+    "id": 5,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/saturn.png?updatedAt=1696855997757",
+    "name": "Saturn Ringscape",
+    "description": "Journey to Saturn and marvel at its stunning ring system. Visit its intriguing moon, Titan, and explore the ringed giant.",
+    "duration": "5 months",
+    "price": "$550,000",
+    "highlights": "Soar through Saturn's dazzling rings and explore its moon, Titan, with its lakes of liquid methane.",
+    "details": "Saturn Ringscape is a voyage to the ringed giant. Witness the dazzling beauty of its rings up close, and explore the mysteries of its largest moon, Titan. Float over the lakes of liquid methane and capture the essence of Saturn's uniqueness.",
+    "spaceship": "Solar Cruiser",
+    "crew": "Cpt. John Smith, Cpt. Emily Brown, Lt. Sophie Dubois"
+  },
+  {
+    "id": 6,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/uranus.png?updatedAt=1696855995702",
+    "name": "Uranus Expedition",
+    "description": "Visit the ice giant Uranus and its peculiar tilted rings. Experience its icy atmosphere and unique features.",
+    "duration": "6 months",
+    "price": "$600,000",
+    "highlights": "Witness Uranus's strange axial tilt, explore its rings, and study its chilly environment.",
+    "details": "Uranus Expedition is a deep dive into the mysteries of the ice giant. Discover its tilted rings, its frigid atmosphere, and the unique characteristics that make Uranus a standout in the solar system. Uncover its secrets on this epic journey.",
+    "spaceship": "Solar Cruiser",
+    "crew": "Cpt. John Smith, Cpt. Emily Brown, Lt. Sophie Dubois"
+  },
+  {
+    "id": 7,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/neptune.png?updatedAt=1696855995644",
+    "name": "Neptune Odyssey",
+    "description": "Travel to Neptune, the last of the gas giants. Explore its deep blue atmosphere and its mysterious storms.",
+    "duration": "6 months",
+    "price": "$750,000",
+    "highlights": "Dive into Neptune's frigid winds, witness its dark storms, and experience the outermost planet in the solar system.",
+    "details": "Neptune Odyssey takes you to the edge of the solar system. Immerse yourself in its deep blue atmosphere, and witness the planet's enigmatic storms. Learn about Neptune's complex history and its place in the distant reaches of our celestial neighborhood.",
+    "spaceship": "Solar Cruiser",
+    "crew": "Cpt. John Smith, Cpt. Emily Brown, Lt. Sophie Dubois"
+  },
+
+  {
+    "id": 8,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/sun.png?updatedAt=1696855997943",
+    "name": "Sun Flyby",
+    "description": "For the ultimate thrill-seekers, embark on a daring journey to the Sun. While you won't land, you'll fly closer to the Sun than ever before.",
+    "duration": "1 month",
+    "price": "$200,000",
+    "highlights": "Experience the Sun's scorching heat and witness its massive solar flares and eruptions from a safe distance.",
+    "details": "Sun Flyby is the adventure of a lifetime. You'll approach the Sun closer than any spacecraft ever has, witnessing its immense solar flares and eruptions. This daring mission offers a new perspective on our closest star.",
+    "spaceship": "Lunar Shuttle",
+    "crew": "Captain Richard Lewis, Solar Physicist Dr. Sarah Mitchell"
+  },
+  {
+    "id": 9,
+    "image": "https://ik.imagekit.io/penkaldev/planets%20images/pluto.png?updatedAt=1696855997688",
+    "name": "Pluto Discovery",
+    "description": "Embark on an extraordinary journey to the dwarf planet Pluto. Explore the distant, icy world and its enigmatic surface.",
+    "duration": "10 months",
+    "price": "$950,000",
+    "highlights": "Witness the far reaches of our solar system, explore Pluto's frozen landscapes, and study its complex geology.",
+    "details": "Pluto Discovery is a historic journey to the outskirts of the solar system. Explore Pluto's frozen plains, its complex geology, and its enigmatic history. Witness the distant world that once captivated the imaginations of astronomers.",
+    "spaceship": "Solar Cruiser",
+    "crew": "Cpt. John Smith, Cpt. Emily Brown, Lt. Sophie Dubois"
+  }
+]
