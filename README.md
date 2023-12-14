@@ -1,4 +1,4 @@
-### Interstellar Traveler Project Readme
+### Interstellar Traveler Project
 
 #### Project Overview:
 Interstellar Traveler is a futuristic travel agency website that offers cutting-edge space travel experiences. The project leverages modern technologies to provide an immersive user interface and a robust backend for managing travel data.
